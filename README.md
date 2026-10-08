@@ -94,9 +94,16 @@ pupil size in natural vision across the human lifespan*, R. Soc. Open Sci.
 
 If you use this toolbox, please cite the paper. The preprint is:
 
-> A. C. Schneider, T. Morimoto, H. E. Smithson, and M. Spitschan, "Beyond colour
-> gamuts: Novel metrics for the reproduction of photoreceptor signals," bioRxiv
-> (2021). https://doi.org/10.1101/2021.02.27.433203
+> A. C. Schneider, T. Morimoto, H. E. Smithson, and M. Spitschan,
+> "Physiologically relevant metrics for evaluating photoreceptor signal
+> reproduction in visual displays," bioRxiv 2021.02.27.433203 (2021).
+> https://doi.org/10.1101/2021.02.27.433203
+
+## CODECHECK
+
+This repository has been independently reproduced through
+[CODECHECK](https://codecheck.org.uk/). The CODECHECK certificate is available at
+https://doi.org/10.5281/zenodo.23166593.
 
 ## Contributions
 
