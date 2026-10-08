@@ -96,7 +96,7 @@ If you use this toolbox, please cite the paper. The preprint is:
 
 > A. C. Schneider, T. Morimoto, H. E. Smithson, and M. Spitschan,
 > "Physiologically relevant metrics for evaluating photoreceptor signal
-> reproduction in visual displays," bioRxiv 2021.02.27.433203 (2021).
+> reproduction in visual displays," bioRxiv 2021.02.27.433203 (2026).
 > https://doi.org/10.1101/2021.02.27.433203
 
 ## CODECHECK
